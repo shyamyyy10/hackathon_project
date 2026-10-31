@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.env
+data/actions.csv
+data/garbage_classification/
+models/*.keras
+*.pyc
